@@ -1,0 +1,16 @@
+:root {
+    --ff-heading: 'Epilogue', sans-serif;
+    --ff-texting: sans-serif;
+
+    --bg-primary: #28293e;
+}
+
+header {
+    font-family: var(--ff-heading);
+}
+
+body {
+    font-family: var(--ff-texting);
+
+    background-color: var(--bg-primary);
+}
